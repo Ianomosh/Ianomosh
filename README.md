@@ -1,43 +1,61 @@
-#include "DHT.h"
+# 👋 Hi, I'm Ian Omondi
 
-#define DHTPIN 2     // Pin where the DHT11 sensor is connected
-#define DHTTYPE DHT11   // DHT 11 
-DHT dht(DHTPIN, DHTTYPE);
+### 🛡️ Cybersecurity Enthusiast | 🌐 Networking | 🐍 Python | 🐧 Linux
 
-int relayPin = 8;   // Relay controlling the fan
-float temperatureThreshold = 30.0;  // Temperature threshold for fan (e.g., 30°C)
+I'm a Kenyan tech enthusiast building toward a career in **Cybersecurity and Red Team Engineering**.
 
-void setup() {
-  Serial.begin(9600);
-  dht.begin();
-  
-  pinMode(relayPin, OUTPUT);
-  digitalWrite(relayPin, HIGH);  // Start with the relay off
-}
+I'm currently strengthening my foundations through **networking, Linux, Python, cybersecurity labs, and hands-on projects**. I believe in learning by building, breaking, troubleshooting, and understanding how things work underneath.
 
-void loop() {
-  // Reading temperature
-  float temp = dht.readTemperature();
+### 🎯 What I'm Working Toward
 
-  // Check if the reading failed
-  if (isnan(temp)) {
-    Serial.println("Failed to read from DHT sensor!");
-    return;
-  }
+* 🛡️ Red Team Engineering
+* 🌐 Network Engineering
+* ☁️ Cloud & Infrastructure Security
+* 🔐 Cybersecurity Engineering
 
-  // Print temperature to the Serial Monitor
-  Serial.print("Temperature: ");
-  Serial.print(temp);
-  Serial.println(" °C");
+### 🧠 Currently Learning
 
-  // If temperature exceeds threshold, turn on fan (relay on)
-  if (temp > temperatureThreshold) {
-    digitalWrite(relayPin, LOW);   // Turn the relay ON
-    Serial.println("Fan ON");
-  } else {
-    digitalWrite(relayPin, HIGH);  // Turn the relay OFF
-    Serial.println("Fan OFF");
-  }
+* IPv4 & Subnetting
+* TCP/IP & Networking Fundamentals
+* VLANs & Routing
+* Linux
+* Python
+* Git & GitHub
+* Cybersecurity Fundamentals
+* Security Operations
+* Ethical Hacking & Red Teaming
 
-  delay(2000);  // Wait 2 seconds before reading again
-}
+### 🧪 My Approach
+
+I don't want to simply learn how to run security tools.
+
+I want to understand **what happens underneath them**.
+
+My goal is to build strong foundations in networking, operating systems, programming, and security so that I can eventually approach offensive security with a deep technical understanding.
+
+### 🚀 Projects & Labs
+
+I'm building and documenting projects as I learn, including:
+
+* 🌐 Networking labs
+* 🐍 Python tools and automation
+* 🐧 Linux experiments
+* 🔐 Cybersecurity labs
+* 🧪 Security research and write-ups
+* 💻 Web applications
+
+### 📚 Learning in Public
+
+This GitHub profile is a record of my journey.
+
+I am still learning, still experimenting, and still making mistakes — but I'm committed to becoming better every day.
+
+> **Learn. Build. Break. Understand. Repeat.**
+
+---
+
+### 📫 Connect With Me
+
+**GitHub:** [@Ianomosh](https://github.com/Ianomosh)
+
+I'm always interested in connecting with people learning and building in **technology, networking, and cybersecurity**.
