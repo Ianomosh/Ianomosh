@@ -4,58 +4,115 @@
 
 I'm a Kenyan tech enthusiast building toward a career in **Cybersecurity and Red Team Engineering**.
 
-I'm currently strengthening my foundations through **networking, Linux, Python, cybersecurity labs, and hands-on projects**. I believe in learning by building, breaking, troubleshooting, and understanding how things work underneath.
+I'm currently strengthening my foundations through **networking, Linux, Python, Bash, cybersecurity labs, and hands-on projects**.
 
-### 🎯 What I'm Working Toward
-
-* 🛡️ Red Team Engineering
-* 🌐 Network Engineering
-* ☁️ Cloud & Infrastructure Security
-* 🔐 Cybersecurity Engineering
-
-### 🧠 Currently Learning
-
-* IPv4 & Subnetting
-* TCP/IP & Networking Fundamentals
-* VLANs & Routing
-* Linux
-* Python
-* Git & GitHub
-* Cybersecurity Fundamentals
-* Security Operations
-* Ethical Hacking & Red Teaming
-
-### 🧪 My Approach
-
-I don't want to simply learn how to run security tools.
-
-I want to understand **what happens underneath them**.
-
-My goal is to build strong foundations in networking, operating systems, programming, and security so that I can eventually approach offensive security with a deep technical understanding.
-
-### 🚀 Projects & Labs
-
-I'm building and documenting projects as I learn, including:
-
-* 🌐 Networking labs
-* 🐍 Python tools and automation
-* 🐧 Linux experiments
-* 🔐 Cybersecurity labs
-* 🧪 Security research and write-ups
-* 💻 Web applications
-
-### 📚 Learning in Public
-
-This GitHub profile is a record of my journey.
-
-I am still learning, still experimenting, and still making mistakes — but I'm committed to becoming better every day.
-
-> **Learn. Build. Break. Understand. Repeat.**
+I believe in learning by building, breaking, troubleshooting, and understanding how things work underneath.
 
 ---
 
-### 📫 Connect With Me
+## 🎯 What I'm Working Toward
 
-**GitHub:** [@Ianomosh](https://github.com/Ianomosh)
+- ⚔️ Red Team Engineering
+- 🌐 Network Engineering
+- 🔐 Cybersecurity Engineering
+- ☁️ Cloud & Infrastructure Security
 
-I'm always interested in connecting with people learning and building in **technology, networking, and cybersecurity**.
+---
+
+## 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" />
+</p>
+
+**Main focus:** Python · Bash · Linux
+
+**Growing skills:** JavaScript · HTML · CSS · Flask · Git
+
+---
+
+## 🌐 Networking
+
+Currently building strong foundations in:
+
+- IPv4 Addressing
+- Subnetting
+- CIDR
+- TCP/IP
+- VLANs
+- Routing
+- Network Troubleshooting
+- Network Security
+
+I'm particularly interested in understanding how networks work from the ground up and how they can be secured and tested.
+
+---
+
+## 🔐 Cybersecurity
+
+My cybersecurity interests include:
+
+- ⚔️ Red Teaming
+- 🔎 Reconnaissance
+- 🕵️ Enumeration
+- 🌐 Web Security
+- 🐧 Linux Security
+- 🔑 Privilege Escalation
+- 🧪 Security Testing
+- 🛡️ Defensive Security
+- 🤖 Security Automation
+
+My long-term goal is to become a technically strong **Red Team Engineer** with solid networking, Linux, programming, and security foundations.
+
+---
+
+## 🧪 Platforms & Labs
+
+I'm using hands-on platforms and laboratory environments to develop practical skills.
+
+- TryHackMe
+- Blue Team Labs Online
+- Cisco Packet Tracer
+- Wireshark
+- Nmap
+- Burp Suite
+- Kali Linux
+
+---
+
+## 📚 Currently Learning
+
+```text
+Networking
+├── IPv4
+├── Subnetting
+├── VLANs
+├── TCP/IP
+└── Routing
+
+Linux
+├── System fundamentals
+├── Networking
+├── Bash
+└── Security
+
+Programming
+├── Python
+├── Bash
+├── JavaScript
+├── HTML
+└── CSS
+
+Cybersecurity
+├── Security fundamentals
+├── Reconnaissance
+├── Web security
+├── Security operations
+└── Red teaming
