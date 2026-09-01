@@ -125,3 +125,14 @@ Cybersecurity
 ├── Web security
 ├── Security operations
 └── Red teaming
+<hr>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Keep+Learning;Keep+Building;Keep+Hacking;Keep+Growing" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F00FF,50:164E9A,100:087EA4&height=150&section=footer&animation=twinkling" width="100%"/>
+
+</div>
