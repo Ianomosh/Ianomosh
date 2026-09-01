@@ -94,37 +94,6 @@ I'm using hands-on platforms and laboratory environments to develop practical sk
 - Burp Suite
 - Kali Linux
 
----
-
-## 📚 Currently Learning
-
-```text
-Networking
-├── IPv4
-├── Subnetting
-├── VLANs
-├── TCP/IP
-└── Routing
-
-Linux
-├── System fundamentals
-├── Networking
-├── Bash
-└── Security
-
-Programming
-├── Python
-├── Bash
-├── JavaScript
-├── HTML
-└── CSS
-
-Cybersecurity
-├── Security fundamentals
-├── Reconnaissance
-├── Web security
-├── Security operations
-└── Red teaming
 <hr>
 
 <div align="center">
