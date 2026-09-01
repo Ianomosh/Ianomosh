@@ -1,3 +1,12 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:087EA4,50:164E9A,100:4015B8&height=230&section=header&text=OMOSH&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Network+Engineering+Student;Python+Developer;Future+Red+Team+Engineer" />
+
+</div>
 # 👋 Hi, I'm Ian Omondi
 
 ### 🛡️ Cybersecurity Enthusiast | 🌐 Networking | 🐍 Python | 🐧 Linux
