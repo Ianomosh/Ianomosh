@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Network+Engineering+Student;Python+Developer;Future+Red+Team+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Developer" />
 
 </div>
 # 👋 Hi, I'm Ian Omondi
