@@ -9,7 +9,7 @@
 </div>
 # 👋 Hi, I'm Ian Omondi
 
-### 🛡️ Cybersecurity Enthusiast | 🌐 Networking | 🐍 Python | 🐧 Linux
+### Software Developer
 
 I'm a Kenyan tech enthusiast building toward a career in **Cybersecurity and Red Team Engineering**.
 
@@ -19,16 +19,16 @@ I believe in learning by building, breaking, troubleshooting, and understanding 
 
 ---
 
-## 🎯 What I'm Working Toward
+## What I'm Working Toward
 
-- ⚔️ Red Team Engineering
-- 🌐 Network Engineering
-- 🔐 Cybersecurity Engineering
-- ☁️ Cloud & Infrastructure Security
+-  Red Team Engineering
+-  Network Engineering
+-  Cybersecurity Engineering
+-  Cloud & Infrastructure Security
 
 ---
 
-## 🛠️ Languages & Technologies
+##  Languages & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
@@ -47,7 +47,7 @@ I believe in learning by building, breaking, troubleshooting, and understanding 
 
 ---
 
-## 🌐 Networking
+## Networking
 
 Currently building strong foundations in:
 
@@ -64,25 +64,25 @@ I'm particularly interested in understanding how networks work from the ground u
 
 ---
 
-## 🔐 Cybersecurity
+##  Cybersecurity
 
 My cybersecurity interests include:
 
-- ⚔️ Red Teaming
-- 🔎 Reconnaissance
-- 🕵️ Enumeration
-- 🌐 Web Security
-- 🐧 Linux Security
-- 🔑 Privilege Escalation
-- 🧪 Security Testing
-- 🛡️ Defensive Security
-- 🤖 Security Automation
+-  Red Teaming
+-  Reconnaissance
+-  Enumeration
+-  Web Security
+-  Linux Security
+-  Privilege Escalation
+-  Security Testing
+-  Defensive Security
+-  Security Automation
 
 My long-term goal is to become a technically strong **Red Team Engineer** with solid networking, Linux, programming, and security foundations.
 
 ---
 
-## 🧪 Platforms & Labs
+##  Platforms & Labs
 
 I'm using hands-on platforms and laboratory environments to develop practical skills.
 
